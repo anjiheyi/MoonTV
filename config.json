@@ -95,7 +95,8 @@
            {
       "name": "理论片",
       "type": "movie",
-      "query": "理论片"
+      "query": "理论片" ,
+      "ac": "detail"
     }, 
      {
       "name": "理论片",
