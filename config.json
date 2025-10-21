@@ -81,6 +81,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "xpg": {
+      "api": "http://zhangqun1818.serv00.net/pingguo.php",
+      "name": "小苹果"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
@@ -91,6 +95,12 @@
       "name": "华语",
       "type": "movie",
       "query": "华语"
+    },
+        {
+      "name": "港台",
+      "type": "movie",
+      "query": "港台",
+      "api": "http://zhangqun1818.serv00.net/pingguo.php"
     },
     {
       "name": "欧美",
