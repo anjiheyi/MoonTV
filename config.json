@@ -93,10 +93,10 @@
       "query": "华语"
     },
            {
-      "name": "理论片",
+      "name": "动作片",
       "type": "movie",
-      "query": "理论片" ,
-      "ac": "detail"
+      "query": "动作片" ,
+      "api": "https://bfzyapi.com/api.php/provide/vod"
     }, 
      {
       "name": "理论片",
