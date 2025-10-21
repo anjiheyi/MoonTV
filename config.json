@@ -92,15 +92,13 @@
       "type": "movie",
       "query": "华语"
     },
-
-      福利
     {
       "name": "福利",
       "type": "movie",
       "query": "福利" ,
       "api": "https://bfzyapi.com/api.php/provide/vod"
     },
-           {
+    {
       "name": "动作片",
       "type": "movie",
       "query": "动作片" ,
@@ -110,7 +108,7 @@
       "name": "理论片",
       "type": "tv",
       "query": "理论片",
-       "api": "https://bfzyapi.com/api.php/provide/vod"
+      "api": "https://bfzyapi.com/api.php/provide/vod"
     },     
     {
       "name": "电视",
