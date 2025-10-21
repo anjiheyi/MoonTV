@@ -92,10 +92,10 @@
       "type": "movie",
       "query": "华语"
     },
-          {
+    {
       "name": "电视",
       "type": "tv",
       "query": "华语"
-    },
+    }
   ]
 }
