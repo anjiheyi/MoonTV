@@ -92,10 +92,15 @@
       "type": "movie",
       "query": "华语"
     },
-     {
-      "name": "伦理三级",
+           {
+      "name": "理论片",
       "type": "movie",
-      "query": "伦理三级"
+      "query": "理论片"
+    }, 
+     {
+      "name": "理论片",
+      "type": "tv",
+      "query": "理论片"
     },     
     {
       "name": "电视",
