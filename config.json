@@ -92,6 +92,11 @@
       "type": "movie",
       "query": "华语"
     },
+     {
+      "name": "伦理三级",
+      "type": "movie",
+      "query": "伦理三级"
+    },     
     {
       "name": "电视",
       "type": "tv",
